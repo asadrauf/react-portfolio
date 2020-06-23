@@ -1,3 +1,5 @@
+
+gh-pages deployed link--> https://asadrauf.github.io/react-portfolio/
 > ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) # Created this portfolio to further polish my skills in ReactJS.
 
 These are the programming languages that we used to built this application
