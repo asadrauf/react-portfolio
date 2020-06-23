@@ -581,9 +581,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Quizz App</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/quizz-app"><Button colored>GitHub</Button></a>
+            <a href = " https://asadrauf.github.io/quizz-app/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog7} raised ripple>Technologies</Button>
               </div>
@@ -613,9 +612,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Team Generator</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/random-team-generator"><Button colored>GitHub</Button></a>
+            <a href = "https://github.com/asadrauf/random-team-generator"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog3} raised ripple>Technologies</Button>
               </div>
@@ -650,9 +648,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Employee Directory</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/employee-directory"><Button colored>GitHub</Button></a>
+            <a href = "https://asadrauf.github.io/employee-directory/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog6} raised ripple>Technologies</Button>
               </div>
@@ -684,9 +681,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Note Taker</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/note-taker"><Button colored>GitHub</Button></a>
+            <a href = "https://ar-note-taker.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog2} raised ripple>Technologies</Button>
               </div>
@@ -717,9 +713,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Fitness Tracker</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/workout-tracker"><Button colored>GitHub</Button></a>
+            <a href = "https://fitness-tracker-app-hw.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog4} raised ripple>Technologies</Button>
               </div>
@@ -754,9 +749,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Budget App</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/indexdb-swbudgetApp"><Button colored>GitHub</Button></a>
+            <a href = "https://service-worker-appbudget.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog5} raised ripple>Technologies</Button>
               </div>
