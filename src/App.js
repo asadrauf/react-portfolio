@@ -32,9 +32,7 @@ class App extends Component {
         
         <Content>
             <div className="page-content" />
-            <Router>
             <Main/>
-            </Router>
         </Content>
     </Layout>
 </div>
