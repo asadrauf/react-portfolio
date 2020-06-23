@@ -391,9 +391,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Quizz App</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/quizz-app"><Button colored>GitHub</Button></a>
+              <a href = " https://asadrauf.github.io/quizz-app/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog7} raised ripple>Technologies</Button>
               </div>
@@ -428,9 +427,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Healthcare Pro+</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/project3"><Button colored>GitHub</Button></a>
+            <a href = " https://project3-healthcarepro.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog8} raised ripple>Technologies</Button>
               </div>
@@ -476,9 +474,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Quest for the Net</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/project2"><Button colored>GitHub</Button></a>
+            <a href = " https://vast-headland-47194.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog} raised ripple>Technologies</Button>
               </div>
@@ -508,9 +505,8 @@ class Projects extends Component {
             <h4 className={"heading"}>EventHubb</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/Team3"><Button colored>GitHub</Button></a>
+            <a href = " https://karna1014.github.io/Team3/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog1} raised ripple>Technologies</Button>
               </div>
@@ -545,9 +541,8 @@ class Projects extends Component {
             <h4 className={"heading"}>Healthcare Pro+</h4>
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href = "https://github.com/asadrauf/project3"><Button colored>GitHub</Button></a>
+            <a href = " https://project3-healthcarepro.herokuapp.com/"><Button colored>Live Demo</Button></a>
               <div className={"btn"} >
               <Button onClick={this.handleOpenDialog8} raised ripple>Technologies</Button>
               </div>
